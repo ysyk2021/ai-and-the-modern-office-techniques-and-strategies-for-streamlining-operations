@@ -1,5 +1,3 @@
-Intelligent Virtual Assistants (IVA)
-========================================================================================
 
 Intelligent virtual assistants (IVA) are AI-powered solutions that can automate tasks and improve workflow efficiency. In the modern office, IVAs can be used to streamline operations and enhance productivity, freeing up human employees to focus on higher-level tasks. In this chapter, we will explore the applications of AI in workflow automation, with a focus on intelligent virtual assistants.
 

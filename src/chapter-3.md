@@ -1,5 +1,3 @@
-Chapter: Artificial Intelligence in the Modern Office
-=====================================================
 
 Artificial intelligence (AI) is transforming the modern office, revolutionizing how organizations operate and making processes more efficient and streamlined. In this chapter, we will explore the different types of AI, their applications in the modern office, advantages and limitations of using AI, and case studies on the use of AI in the modern office.
 

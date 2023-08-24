@@ -1,5 +1,3 @@
-Performance Management and Evaluation
-=========================================================================================
 
 Performance management and evaluation are critical components of employee management. Traditionally, these processes have been time-consuming and subjective, but artificial intelligence (AI) is changing that. In this chapter, we will explore the applications of AI in performance management and evaluation.
 

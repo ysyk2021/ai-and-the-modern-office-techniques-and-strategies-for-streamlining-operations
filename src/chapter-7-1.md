@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in the Modern Office
-==================================================================================================
 
 AI is transforming the modern office, enabling organizations to optimize their operations and enhance productivity. However, the use of AI also raises ethical issues that must be addressed to ensure that AI is used ethically and responsibly. In this chapter, we will explore the ethical considerations associated with the use of AI in the modern office.
 

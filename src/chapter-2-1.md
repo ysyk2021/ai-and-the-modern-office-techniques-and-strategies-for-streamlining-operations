@@ -1,5 +1,3 @@
-Evolution of the Modern Office
-========================================================================
 
 The modern office has undergone significant changes over the past few decades. From paper-based processes to digital workflows, technology has played a crucial role in shaping the modern office. In this chapter, we will explore the evolution of the modern office.
 

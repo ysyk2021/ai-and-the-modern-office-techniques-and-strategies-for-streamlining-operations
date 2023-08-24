@@ -1,5 +1,3 @@
-Robotic Process Automation (RPA)
-====================================================================================
 
 Robotic process automation (RPA) is a type of AI-powered solution that can automate routine and repetitive tasks, such as data entry and document management. RPA enables organizations to streamline operations and enhance productivity, freeing up human employees to focus on higher-level tasks. In this chapter, we will explore the applications of AI in workflow automation, with a focus on robotic process automation.
 

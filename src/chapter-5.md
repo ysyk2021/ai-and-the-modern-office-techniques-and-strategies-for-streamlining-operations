@@ -1,5 +1,3 @@
-Chapter: Applications of AI in Workflow Automation
-==================================================
 
 AI is transforming the modern office, enabling organizations to automate routine tasks, streamline operations, and enhance productivity. In this chapter, we will explore some of the key applications of AI in workflow automation.
 

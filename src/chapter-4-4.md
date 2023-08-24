@@ -1,5 +1,3 @@
-Knowledge Management and Decision Support
-================================================================================================
 
 Knowledge management and decision support are critical components of information management, enabling organizations to make informed decisions based on accurate and up-to-date information. Artificial intelligence (AI) can help organizations optimize their knowledge management and decision support processes, providing valuable insights and recommendations. In this chapter, we will explore the applications of AI in knowledge management and decision support.
 

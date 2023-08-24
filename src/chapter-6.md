@@ -1,5 +1,3 @@
-Chapter: Applications of AI in Employee Management
-==================================================
 
 AI is transforming the way organizations manage their employees, enabling them to attract top talent, improve performance management and evaluation, and increase employee engagement and retention. In this chapter, we will explore some of the key applications of AI in employee management.
 

@@ -1,5 +1,3 @@
-Overview of AI Applications in Information Management
-============================================================================================================
 
 Information management is a critical function in any organization, and the growing volume of data makes it more challenging to manage. Artificial intelligence (AI) can help organizations process large amounts of data and extract valuable insights. In this chapter, we will provide an overview of AI applications in information management.
 

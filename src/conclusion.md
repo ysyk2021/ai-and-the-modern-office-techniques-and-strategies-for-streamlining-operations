@@ -1,4 +1,3 @@
-# Conclusion
 
 AI is transforming the modern office, providing organizations with new opportunities to automate routine tasks, streamline operations, and enhance productivity. This book has explored the different types of AI and their applications in the modern office, as well as best practices for ensuring ethical and responsible use.
 

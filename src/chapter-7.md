@@ -1,5 +1,3 @@
-Ethical Considerations
-===============================
 
 As AI becomes more prevalent in the modern office, it is important for organizations to consider the ethical implications of its use. In this chapter, we will explore some of the key ethical considerations associated with the use of AI in the modern office.
 

@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in the Modern Office
-============================================================================================================
 
 As AI becomes more prevalent in the modern office, it is essential to ensure that it is used ethically and responsibly. In this chapter, we will explore best practices for ensuring ethical and responsible AI in the modern office.
 

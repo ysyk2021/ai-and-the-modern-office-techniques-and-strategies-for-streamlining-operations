@@ -1,5 +1,3 @@
-Talent Acquisition and Recruitment
-======================================================================================
 
 One of the most critical aspects of employee management is talent acquisition and recruitment. Finding the right candidate for a job can be a time-consuming and challenging process, but artificial intelligence (AI) is changing that. In this chapter, we will explore the applications of AI in talent acquisition and recruitment.
 

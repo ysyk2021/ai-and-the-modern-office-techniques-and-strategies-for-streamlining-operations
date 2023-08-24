@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in the Modern Office
-============================================================================================================
 
 AI is transforming the modern office, enabling organizations to automate routine tasks, streamline operations, and enhance productivity. In this chapter, we will explore the advantages and limitations of AI in the modern office.
 

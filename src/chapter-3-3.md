@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in the Modern Office
-=========================================================================================================
 
 AI is transforming the modern office, enabling organizations to automate routine tasks, streamline operations, and enhance productivity. In this chapter, we will explore case studies of organizations that have successfully implemented AI technologies in the modern office.
 

@@ -1,5 +1,3 @@
-Chatbots and Natural Language Processing (NLP)
-==================================================================================================
 
 Chatbots and natural language processing (NLP) are powerful AI technologies that can automate a variety of tasks in the modern office. In this chapter, we will explore how chatbots and NLP can be used to streamline operations and enhance productivity.
 

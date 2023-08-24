@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-===========================================================
 
 AI is transforming the modern office, enabling organizations to automate routine tasks, streamline operations, and enhance productivity. This book aims to provide an overview of AI and its applications in the modern office, as well as best practices for ensuring ethical and responsible use.
 

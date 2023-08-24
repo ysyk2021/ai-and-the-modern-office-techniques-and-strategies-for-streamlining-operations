@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and their Applications in the Modern Office
-===================================================================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving technology that is transforming the modern office. In this chapter, we will explore the different types of AI and their applications in the modern office.
 

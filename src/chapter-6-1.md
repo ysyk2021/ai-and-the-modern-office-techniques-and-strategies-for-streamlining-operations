@@ -1,5 +1,3 @@
-Overview of AI Applications in Employee Management
-======================================================================================================
 
 Employee management is a critical function in any organization, and it involves numerous processes such as recruitment, performance evaluation, and career development. Artificial intelligence (AI) can help organizations optimize these processes and improve employee productivity and satisfaction. In this chapter, we will provide an overview of AI applications in employee management.
 
