@@ -10,3 +10,7 @@ Lastly, we will explore future directions and challenges associated with the use
 In conclusion, this book aims to provide readers with an understanding of what AI is and how it is being used in the modern office. It also aims to provide guidance on best practices for ensuring ethical and responsible use of AI in the workplace. With this knowledge, organizations can leverage AI technologies to enhance productivity and drive innovation, while ensuring that they are using these technologies in an ethical and responsible manner.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
