@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence and Their Applications in the Modern Office
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
